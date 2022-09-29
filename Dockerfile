@@ -1,4 +1,4 @@
-FROM flyway/flywayhub:1.0.0
+FROM flyway/flywayhub:1.0.1
 
 USER root
 
